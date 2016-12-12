@@ -1,0 +1,24 @@
+{
+  "name": "spa-mobile-angular",
+  "authors": [
+    "durga598 <durga598@gmail.com>"
+  ],
+  "description": "single page app angular",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-ui-router": "^0.3.2",
+    "bootstrap": "^3.3.7",
+    "firebase": "^3.6.2",
+    "angularfire": "^2.1.0",
+    "angular": "^1.5.9"
+  }
+}
